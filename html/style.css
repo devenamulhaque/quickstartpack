@@ -1,14 +1,12 @@
 /*------------------------------------------------------------------
 Common Stylesheet
 
-Project:   Theme Title two
+Project:   Theme Title
 Build:     Bootstrap 3 +
-Author:    ThemeBadge
+Author:    Enamul Haque
 Author URL: http://www.enamul.me
 
 -------------------------------------------------------------------*/
-
-
 /* ----------------------------------------------------------------
     typography
 -----------------------------------------------------------------*/
@@ -89,20 +87,6 @@ ul {
 
 img {
     max-width: 100%;
-}
-
-pre {
-    display: block;
-    padding: 10px;
-    margin: 0 0 30px;
-    font-size: 13px;
-    line-height: 1.42857143;
-    color: #333;
-    word-break: break-all;
-    word-wrap: break-word;
-    background-color: #f9f9f9;
-    border: 1px solid #EDEDED;
-    border-radius: 0;
 }
 
 
